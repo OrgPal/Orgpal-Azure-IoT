@@ -2,7 +2,7 @@
 
 In this quickstart you'll be connecting the Orgpal PalThree (from now on, PalThree) to Azure IoT.
 
-[PalThree Board](paltrhee-revi-board.jpg)
+![PalThree Board](paltrhee-revi-board.jpg)
 
 Sensor Protocols and Features On-Board
 
