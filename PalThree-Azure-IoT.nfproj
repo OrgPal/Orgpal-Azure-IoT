@@ -12,8 +12,8 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <FileAlignment>512</FileAlignment>
-    <RootNamespace>PalThree-Azure-IoT</RootNamespace>
-    <AssemblyName>PalThree-Azure-IoT</AssemblyName>
+    <RootNamespace>Orgpal.PalThree.Azure</RootNamespace>
+    <AssemblyName>Orgpal.PalThree.Azure</AssemblyName>
     <TargetFrameworkVersion>v1.0</TargetFrameworkVersion>
   </PropertyGroup>
   <Import Project="$(NanoFrameworkProjectSystemPath)NFProjectSystem.props" Condition="Exists('$(NanoFrameworkProjectSystemPath)NFProjectSystem.props')" />

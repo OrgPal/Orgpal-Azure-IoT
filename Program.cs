@@ -15,7 +15,7 @@ using System.Device.Pwm;
 using System.Device.Adc;
 using System;
 
-namespace Azure_Certification
+namespace Orgpal.PalThree.Azure
 {
     public class Program
     {
@@ -25,8 +25,12 @@ namespace Azure_Certification
         const string PropertyFwVersion = "fwVersion";
 
         // Azure IoT IDs
-        const string RegistrationID = "Cert8899";
-        public const string IdScope = "0ne000FFA42";
+        // replace with the registration ID for your device
+        const string RegistrationID = "nano-7C-9E-BD-F6-05-8C";
+
+        // Replace the OneXX by the ID scope you'll find in your DPS
+        public const string IdScope = "0neXXXXXXXX";
+        // You can use as well your own address like yourdps.azure-devices-provisioning.net
         public const string DpsEndpoint = "global.azure-devices-provisioning.net";
         public const string ModelId = "dtmi:orgpal:palthree:palthree_demo_0;1";
 

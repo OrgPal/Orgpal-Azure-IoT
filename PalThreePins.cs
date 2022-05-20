@@ -1,6 +1,9 @@
-﻿using System;
+﻿// Copyright (c) Orgpal. All rights reserved.
+// Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
-namespace Azure_Certification
+using System;
+
+namespace Orgpal.PalThree.Azure
 {
     internal static class PalThreePins
     {
