@@ -2,6 +2,24 @@
 
 In this quickstart you'll be connecting the Orgpal PalThree (from now on, PalThree) to Azure IoT.
 
+![PalThree Board](paltrhee-revi-board.jpg)
+
+Sensor Protocols and Features On-Board
+
+* RS 485/Modbus
+* TTL Serial
+* 4-20mA
+* Flow Meters/Pulse Counts
+* On Board Relay
+* Ultra Low Power Modes
+* RTC On Board
+* USB File System
+* SD Card/File System
+* Flash File System on Board (16MB)
+* Direct GPIO for analog and digital input in the 3.3/5V
+* Expansion Slots for Modules and Add Ons
+* Communication via Ethernet/Wifi, Cellular and Satellite
+
 ## What you need
 
 * A [PalThree](https://www.orgpal.com/palthree-iot-azure)
